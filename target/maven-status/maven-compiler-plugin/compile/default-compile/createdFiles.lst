@@ -1,0 +1,12 @@
+BookStore\BookChanged.class
+BookStore\OrderChanged.class
+BookStore\Ordered.class
+BookStore\BookController.class
+BookStore\OrderCanceled.class
+BookStore\BookRepository.class
+BookStore\Application.class
+BookStore\Book.class
+BookStore\PolicyHandler.class
+BookStore\BookRegisterd.class
+BookStore\config\kafka\KafkaProcessor.class
+BookStore\AbstractEvent.class
