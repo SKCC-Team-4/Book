@@ -1,4 +1,4 @@
-package BookStore;
+package bookstore;
 
 import org.springframework.cloud.stream.annotation.StreamListener;
 import org.springframework.messaging.handler.annotation.Payload;

@@ -1,8 +1,7 @@
-package BookStore;
+package bookstore;
 
 import javax.persistence.*;
 import org.springframework.beans.BeanUtils;
-import java.util.List;
 
 @Entity
 @Table(name="Book_table")

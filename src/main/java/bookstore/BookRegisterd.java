@@ -1,4 +1,4 @@
-package BookStore;
+package bookstore;
 
 public class BookRegisterd extends AbstractEvent {
 
